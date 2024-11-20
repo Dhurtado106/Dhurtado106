@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Dhurtado106
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Welcome to GITHUB</tittle>
+- 👋 Hi, I’m David  
 - 👀 I’m interested in ... computers 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... HTML & Python coding
 - 📫 How to reach me ... 
 
 <!---

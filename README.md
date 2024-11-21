@@ -2,6 +2,8 @@
 <html>
     <head>
         <tittle>Welcome to GITHUB</tittle>
+        <button name="button" type="button">Click Here</button>
+        input type =<"date" id = "dates" name = "id" value = "2000-02-22">
 - 👋 Hi, I’m David  
 - 👀 I’m interested in ... computers 
 - 🌱 I’m currently learning ...

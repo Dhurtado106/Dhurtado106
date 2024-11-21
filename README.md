@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Welcome to GITHUB</title>
+        <tittle>Welcome to GITHUB</tittle>
 - 👋 Hi, I’m David  
 - 👀 I’m interested in ... computers 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... HTML & Python coding
+- 💞️ I’m looking to collaborate on ... HTML & Python coding including linux and windows configurations
 - 📫 How to reach me ... 
 
 <!---
